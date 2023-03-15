@@ -6,7 +6,7 @@ The deep learning model we adopted is CNN with high-quality performance on image
 Last but not least, the user interface of software application is key to make the concept of our study popular. 
 We developed 3 versions of user interface under PC, server, and mobile-phone to meet all requirements shown below. 
 
-                       <img width="533" alt="image" src="https://user-images.githubusercontent.com/109503040/225416820-15e97bc1-83b2-46f7-aa5b-c16d56a6a438.png">
+<img width="533" alt="image" src="https://user-images.githubusercontent.com/109503040/225416820-15e97bc1-83b2-46f7-aa5b-c16d56a6a438.png">
 
 
 ## Data Preprocessing
