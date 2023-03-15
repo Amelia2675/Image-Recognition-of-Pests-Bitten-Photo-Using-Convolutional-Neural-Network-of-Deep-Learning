@@ -6,7 +6,7 @@ The deep learning model we adopted is CNN with high-quality performance on image
 Last but not least, the user interface of software application is key to make the concept of our study popular. 
 We developed 3 versions of user interface under PC, server, and mobile-phone to meet all requirements shown below. 
 
-##　Data Preprocessing
+## Data Preprocessing
 First, we composed two dataset, one is for insects, the other is for wounds.
 Second, We applied noise process on the images with complicated background, 
 meaning that we screened the main characteristics out of these images and removed all the noise that might be the obstacle for our model training.
