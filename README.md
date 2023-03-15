@@ -45,12 +45,13 @@ After adjusting the model to the above-mentioned type (3 convolution layers with
 
 ## User Interface
 We designed 3 versions of user interface( PC , Server, Mobile-phone version ) on the basis of PC and mobile phone to  meet all requirements.
-### 1.PC version
+
+### 1. PC version
 We constructed the user interface of MS Window OS by C#.
 <img width="711" alt="image" src="https://user-images.githubusercontent.com/109503040/225417279-3443e885-889f-437c-82de-caac3a8ffcf8.png">
 
 
-### 2.Server version- 
+### 2. Server version
 Different from the PC version, the server version is developed with Flask, a web development tool of Python, and ngrok. 
 With the function of ngrok, we could build a public HTTPs URL for users to upload their wound images via internet. 
 Web server is comprised of ‘Apache’, ‘uWSGI’, and ‘Flask’. 
@@ -59,7 +60,7 @@ Web server is comprised of ‘Apache’, ‘uWSGI’, and ‘Flask’.
   <img width="781" alt="image" src="https://user-images.githubusercontent.com/109503040/225417413-d1d166ab-e924-4f03-90c8-5cd2b38d749d.png"> <img width="526" alt="image" src="https://user-images.githubusercontent.com/109503040/225417507-b33f84de-b60d-46aa-98e8-11d710bfef19.png">
 
 
-### 3.mobile-phone vesion
+### 3. mobile-phone version
 Allows users to use camera to take the picture and upload it to recognize the wounds in our system.
 
 <img width="574" alt="image" src="https://user-images.githubusercontent.com/109503040/225417568-d4f0ef00-a082-465d-bdba-0d9b4cf8c02a.png">
